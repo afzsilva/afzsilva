@@ -11,8 +11,6 @@ Entusiasta de tecnologia desde criança, hoje graduado em Análise e desenvolvim
 </br>
 
 ##### Contato :
-</br>
-
 <a href="https://www.linkedin.com/in/afranioz-analista-programador/">
  <p>
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
