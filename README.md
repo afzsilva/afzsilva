@@ -8,9 +8,10 @@ Entusiasta de tecnologia desde criança, hoje graduado em Análise e desenvolvim
 - Não sou designer, mas respeito os profissionais
 - Não sou de ferro e gosto de diversão e descontrair  "Games, Musica, Praia, Festas ..." 😀
 
-
+</br>
 
 *Contato :*
+</br>
 <a href="https://www.linkedin.com/in/afranioz-analista-programador/">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
 
