@@ -27,6 +27,8 @@ Entusiasta de tecnologia desde criança, hoje graduado em Análise e desenvolvim
 <img alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
 <img alt="react" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" />
+<img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+<img alt="mongod" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
 </p>
 
 ##### No meu radar :
@@ -35,6 +37,7 @@ Entusiasta de tecnologia desde criança, hoje graduado em Análise e desenvolvim
 <img alt="php" src="https://img.shields.io/badge/Php-777BB4?logo=php&logoColor=white&style=for-the-badge" />
 <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
 <img alt="aws" src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+<img alt="aws" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
 </p>
 
 ##### Ferramentas :
