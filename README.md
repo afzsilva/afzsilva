@@ -34,9 +34,9 @@ Entusiasta de tecnologia desde criança, hoje graduado em Análise e desenvolvim
 ##### No meu radar :
 <p>
 <img alt="python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-<img alt="php" src="https://img.shields.io/badge/Php-777BB4?logo=php&logoColor=white&style=for-the-badge" />
+<!--<img alt="php" src="https://img.shields.io/badge/Php-777BB4?logo=php&logoColor=white&style=for-the-badge" />-->
 <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-<img alt="aws" src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+<!--<img alt="aws" src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />-->
 <img alt="aws" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
 </p>
 
